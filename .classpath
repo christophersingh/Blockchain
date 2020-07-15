@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/csing437/Downloads/gson-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csing437/Downloads/bcprov-ext-jdk15to18-165.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csing437/Downloads/bcprov-jdk15on-159.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
